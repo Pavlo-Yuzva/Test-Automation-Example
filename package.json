@@ -1,0 +1,14 @@
+{
+  "name": "kitconnect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.35.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "yarn": "^1.22.21"
+  }
+}
